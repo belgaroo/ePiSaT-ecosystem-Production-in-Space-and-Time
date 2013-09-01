@@ -44,4 +44,4 @@ EXAMPLE: You wish to use this code or data in your own work, a peer reviewed jou
 
 Contact the author if you have any questions.
 
-MAINTAINER: bradley.evans@mq.edu.au
+MAINTAINER: bradley.evans << at >> mq.edu.au
